@@ -68,3 +68,4 @@ Run:<code>python3 app.py</code>
 <!-- <h2> Community for questions: <a href="https://t.me/+tmN2hmIaT1EwNjQy">LINK</a> </h2> -->
 <h2>📩Contact: <a href="https://t.me/akhatkulov">LINK</a></h2>
 <br> <br>
+python3 app.py
